@@ -14,6 +14,7 @@ DefaultConfig = { #THESE ARE DEFAULT OPRIONS FOR THE CONFIG.
     #Redis Info
     "RedisHost" : "localhost",
     "RedisPort" : 6379,
+    "RedisPassword" : "",
     "RedisDb" : 0,
     #Server Settings
     "ServerName" : "RealistikOsu!",
